@@ -11,8 +11,8 @@ Write a function called `reverseArray` which takes an array as an argument. With
 ## Approach & Efficiency
 The approach used to reverse an array is called `two pointer approach`.
 ```
-Time Complexity : _Linear - O(n)_
-Space Complexity : _Constant - O(1)_
+Time Complexity : *Linear - O(n)*
+Space Complexity : *Constant - O(1)*
 ```
 
 ## Solution
