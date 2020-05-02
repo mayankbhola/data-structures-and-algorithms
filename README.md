@@ -11,9 +11,12 @@ Write a function called `reverseArray` which takes an array as an argument. With
 ## Approach & Efficiency
 The approach used to reverse an array is called `two pointer approach`.
 ```
-Time Complexity : *Linear - O(n)*
-Space Complexity : *Constant - O(1)*
+Time Complexity : <em>Linear - O(n)</em>
+Space Complexity : <em>Constant - O(1)</em>
 ```
 
 ## Solution
 ![whiteboard image](/assets/array_reverse.jpg)
+
+## Links to Implementations
+**Reverse Array** : [array_reverse](https://github.com/mayankbhola/data-structures-and-algorithms/blob/array-reverse/data_structures_and_algorithms/challenges/array_reverse/array_reverse.py)
