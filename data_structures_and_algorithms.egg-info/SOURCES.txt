@@ -6,3 +6,8 @@ data_structures_and_algorithms.egg-info/SOURCES.txt
 data_structures_and_algorithms.egg-info/dependency_links.txt
 data_structures_and_algorithms.egg-info/requires.txt
 data_structures_and_algorithms.egg-info/top_level.txt
+data_structures_and_algorithms/challenges/__init__.py
+data_structures_and_algorithms/challenges/array_reverse/__init__.py
+data_structures_and_algorithms/challenges/array_reverse/array_reverse.py
+data_structures_and_algorithms/challenges/array_shift/__init__.py
+data_structures_and_algorithms/challenges/array_shift/array_shift.py
