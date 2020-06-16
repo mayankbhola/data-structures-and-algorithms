@@ -31,7 +31,7 @@ def validate(input_list) :
         raise Exception("Input list is empty")
 
     """ validate if all elements of list are integer """
-    if not all(isinstance(elem, int)for elem in input_list) :
+    if not all(isinstance(elem, int) for elem in input_list) :
         raise Exception("Invalid input. Elements can only be integer")
 
     return input_list
